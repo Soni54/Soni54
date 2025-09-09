@@ -1,9 +1,9 @@
 
 # 💫Hi,I'm Soni!
 🎓 Fresher | MERN Stack Developer<br>
- 💻 Passionate about building full-stack applications
- 🚀 Currently working on StudyFlow-AI and a Period Tracker project
- 📍 Based in India | Open to remote/full-time opportunities
+ 💻 Passionate about building full-stack applications<br>
+ 🚀 Currently working on StudyFlow-AI and a Period Tracker project<br>
+ 📍 Based in India | Open to remote/full-time opportunities<br>
 
 
 ## 🌐 Socials:
